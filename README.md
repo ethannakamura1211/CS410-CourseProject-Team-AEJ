@@ -5,4 +5,4 @@ Perform sentiment analysis on Twitter tweets for a given brand to help companies
 their brand or on product(s).
 
 ## Project Files:
-### Project Proposal File: CS410_Project_Proposal_Team-AEJ.pdf
+1. Project Proposal File: CS410_Project_Proposal_Team-AEJ.pdf

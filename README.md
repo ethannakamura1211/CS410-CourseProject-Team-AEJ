@@ -1,6 +1,8 @@
-#CS410-CourseProject-Team-AEJ
+# CS410-CourseProject-Team-AEJ
 
-##Team Details:
-• Ayush Khanna (Net ID: akhanna6) - Team Lead
-• Ethan Alberto (Net ID: ethanma3)
-• Jayanth Chandra (Net ID: jc101)
+# Project Topic: 
+Perform sentiment analysis on Twitter tweets for a given brand to help companies gain insights on
+their brand or on product(s).
+
+# Project Files:
+Project Proposal File: CS410_Project_Proposal_Team-AEJ.pdf

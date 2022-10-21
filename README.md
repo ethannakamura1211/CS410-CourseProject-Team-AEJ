@@ -1,3 +1,6 @@
-# CourseProject
+#CS410-CourseProject-Team-AEJ
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+##Team Details:
+• Ayush Khanna (Net ID: akhanna6) - Team Lead
+• Ethan Alberto (Net ID: ethanma3)
+• Jayanth Chandra (Net ID: jc101)

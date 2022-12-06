@@ -48,7 +48,7 @@ Outlined below are the installation and set up instructions for our software.
     <img src="./img assets/docker4.png" alt="docker run cmd" width="650">
   </p>
   
- * To use the software, open the URL which you see once you type docker run -p 8501:8501 brandanalyser in your command line. Alternatively, you can also open it by clicking on URL visible inside PORT(S) in Docker Image.
+ * To use the software, open the URL which you see once you type *docker run -p 8501:8501 brandanalyser* in your command line. Alternatively, you can also open it by clicking on URL visible inside PORT(S) in Docker Image.
   <p align="center">
     <img src="./img assets/docker5.jpg" alt="brandalalyser} docker image" width="650">
   </p>

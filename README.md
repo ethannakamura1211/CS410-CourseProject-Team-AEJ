@@ -56,5 +56,10 @@ Outlined below are the installation and set up instructions for our software.
     <img src="./img assets/docker5.jpg" alt="brandalalyser} docker image" width="650">
   </p>
 
+
+### Software Code Structure
+* **app.py**: This file has the Dashboard code of our software and is the main file to run the code.
+* **helper.py**: All functions are defined inside this file. These are then referenced inside app.py.
+
 ### Twitter API Keys (Not Required for Software Testing)
 * For Future use, it is recommended to get your own twitter developer API Keys using this [link](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)

@@ -5,10 +5,11 @@ Perform sentiment analysis on Twitter tweets for a given brand to help companies
 their brand or on product(s).
 
 ## Project Files:
-1. Project Final Report: 
-2. Project Presentation: 
-3. Project Proposal File: CS410_Project_Proposal_Team-AEJ.pdf
-4. Project Progress Report: CS410_Project_Progress_Report_Team-AEJ.pdf
+1. Project Final Report: CS410_Project_Final_Report_Team-AEJ/CS410_Final_Project_Report_Team-AEJ.pdf
+2. Project Presentation: CS410_Project_Final_Report_Team-AEJ/CS410_Project_Presentation_Team-AEJ.pptx
+3. Project Demo/Video: 
+4. Project Proposal File: CS410_Project_Proposal_Progress_Docs/CS410_Project_Proposal_Team-AEJ.pdf
+5. Project Progress Report: CS410_Project_Proposal_Progress_Docs/CS410_Project_Progress_Report_Team-AEJ.pdf
 
 [Install on Windows | Docker Documentation]: https://docs.docker.com/desktop/install/windows-install/
 [Install on Mac | Docker Documentation]: https://docs.docker.com/desktop/install/mac-install/

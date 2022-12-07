@@ -147,6 +147,19 @@ def getEmotion(text):
     #print('\n', emotion.affect_frequencies)
     return emotion.affect_frequencies
 
+####### Functions to Extract Promotors and Defractors from Tweets ##########
+def getPromotors(score):
+    if score > 8:
+        return 1
+    else:
+        return 0
+
+def getDefractors(score):
+    if score <= 6:
+        return 1
+    else:
+        return 0
+		
 ####### Function to Find Coordinates of Tweets based on the Location Values ##########
 def findCoordinates(location):
     geolocator = Nominatim(user_agent="my_user_agent")

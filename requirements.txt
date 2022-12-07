@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+datetime
+pytz
+textblob
+tweepy==4.4.0
+wordcloud
+configparser
+text2emotion
+emoji==1.6.3
+geopy
+plotly
+snscrape==0.4.3.20220106
+rank_bm25
+tweet-preprocessor
+nrclex

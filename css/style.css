@@ -1,0 +1,56 @@
+﻿/*
+  div.css-1fl3xdi.e1tzin5v0
+  div.css-12zggqv.e16fv1kl2
+  div.css-50ug3q.e16fv1kl3 {
+  font-weight: 900;
+}
+*/
+div.css-1r6slb0.e1tzin5v2 {
+    background-color: #f5f5f5;
+    border: 1px solid; /* #900c3f */
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    color: green;
+}
+div.css-12w0qpk.e1tzin5v2 { /*first 4 widgets*/
+    background-color: rgba(179,226,205,0.4) /*#c7dcd7*/;
+    border: 1px solid; /* #900c3f */
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    color: #006b54;
+    align-content: center;
+}
+div.css-50ug3q.e16fv1kl3 {
+    font-weight: 900;
+}
+.css-18e3th9 {
+    padding-top: 0.3rem;
+    padding-bottom: 5rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+div.css-keje6w.e1tzin5v2 {
+    padding-top: 0.2rem;
+    padding-right: 0.2rem;
+    padding-bottom: 0.3rem;
+    padding-left: 1rem;
+}
+
+.css-1d391kg {
+    padding-top: 3.5rem;
+    padding-right: 1rem;
+    padding-bottom: 3.5rem;
+    padding-left: 1rem;
+}
+
+.css-1s5izn3 {
+    padding-top: 0.5rem;
+    padding-right: 1rem;
+    padding-bottom: 0.2rem;
+    padding-left: 1rem;
+}
+
+.css-1ec096l { /*Table*/
+    line-height: 1;
+}

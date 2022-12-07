@@ -57,4 +57,4 @@ Outlined below are the installation and set up instructions for our software.
   </p>
 
 ### Twitter API Keys (Not Required for Software Testing)
-* For Future use, it is recommended to get your own twitter developer API Keys using this [link](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api
+* For Future use, it is recommended to get your own twitter developer API Keys using this [link](https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api)
